@@ -56,7 +56,7 @@ A few decisions worth explaining:
 
 ## Status
 
-v1 — the options above are implemented and tested on Windows 10 and 11.
+v1: the options above are implemented and tested on Windows 10 and 11.
 
 Planned:
 - PowerShell rewrite for structured output and error handling
@@ -65,4 +65,4 @@ Planned:
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT: see [LICENSE](LICENSE).
